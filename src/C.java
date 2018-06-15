@@ -9,4 +9,7 @@ public class C{
 	public void print(){
 	System.out.println(str);
 	}
+	public void change(String str){
+	this.str=str;
+	}
 }
