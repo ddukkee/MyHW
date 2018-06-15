@@ -6,7 +6,7 @@ public class B {
 	public B(int num){
 	this.num=num;
 	}
-	public void print(){
+	public void age(){
 	System.out.println(num);
 	}
 }
